@@ -3,6 +3,9 @@ package strings;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * https://leetcode.com/problems/permutation-sequence/
+ */
 public class KthPermutation {
     public String getPermutation(int n, int k) {
         String res="";
